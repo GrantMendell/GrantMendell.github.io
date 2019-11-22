@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 150%;
+}
+
+body {
+    background-color:blueviolet;
+}
+
+/*div {
+    background-color: white;
+}*/
+
+img {
+    display:inline;
+    float:left;
+    margin-right:50px;
+    margin-left:300px;
+    margin-top:20px;
+    height:300px;
+    width:400px;
+}
+
+#Projects{
+    display:block;
+    color:white;
+    font-size:25px;
+    float:right;
+    width:1260px;
+    background-color:crimson;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    text-align:center;
+    transition:0.3s;
+    border:5px solid white;
+    padding:10px;
+}
+
+#Projects:hover{
+    background-color:cadetblue;
+    color:azure;
+}
