@@ -35,7 +35,7 @@ div{
 }*/
 
 img{
-    display:table;
+    display:inline-block;
     float:left;
     margin-right:50px;
     margin-left:400px;
