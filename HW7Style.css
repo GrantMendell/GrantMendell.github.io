@@ -34,7 +34,7 @@ div{
     background-color:white;
 }*/
 
-img{
+/*img{
     display: inline;
     float: left;
     margin-right: 50px;
@@ -43,28 +43,29 @@ img{
     height: 300px;
     width: 400px;
     padding: 5px;
-}
-/*#img1{
+}*/
+
+#img1{
     display:inline;
     float:left;
     margin-right:50px;
-    margin-left:400px;
+    margin-left:200px;
     margin-top:20px;
     height:300px;
-    width:400px;
-    padding:5px;
-}*/
+    width:300px;
+    /*padding:5px;*/
+}
 
-/*#img2{
+#img2{
     display:inline-block;
-    float:left;
-    margin-right:30px;
+    float:right;
+    margin-right:100px;
     margin-left:30px;
     margin-top:25px;
-    height:200px;
-    width:200px;
-    padding:5px;
-}*/
+    height:400px;
+    width:400px;
+    /*padding:5px;*/
+}
 
 #Purpose{
     display:block;
