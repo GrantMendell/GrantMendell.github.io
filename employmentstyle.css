@@ -12,14 +12,37 @@ body {
     background-color: white;
 }*/
 
-img {
+#img1 {
     display: inline;
     float: left;
-    margin-right: 50px;
-    margin-left: 450px;
-    margin-top: 20px;
+    /*margin-right:50px;*/
+    margin-left: 150px;
+    margin-top: 30px;
     height: 300px;
-    width: 400px;
+    width: 300px;
+    /*padding:5px;*/
+}
+
+#img2 {
+    display: inline-block;
+    float: right;
+    margin-right: 150px;
+    /*margin-left: 75px;*/
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+    /*padding: 5px;*/
+}
+
+#img3 {
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 25px;
+    height: 250px;
+    width: 300px;
+    /*padding: 5px;*/
 }
 
 #Employment {
