@@ -16,7 +16,7 @@ body {
     display:inline;
     float:left;
     margin-right:10%;
-    margin-left:10%;
+    margin-left:15%;
     margin-top:5%;
     height:15%;
     width:15%;
@@ -37,7 +37,7 @@ body {
     color:white;
     font-size:25px;
     float:right;
-    width:1260px;
+    width:95%;
     background-color:crimson;
     box-shadow:0 4px 8px rgba(0,0,0,0.2);
     text-align:center;
