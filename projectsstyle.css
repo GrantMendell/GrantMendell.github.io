@@ -15,21 +15,21 @@ body {
 #img1{
     display:inline;
     float:left;
-    /*margin-right:50px;*/
-    margin-left:200px;
-    margin-top:20px;
-    height:300px;
-    width:300px;
+    margin-right:10%;
+    margin-left:10%;
+    margin-top:5%;
+    height:15%;
+    width:15%;
 }
 
 #img2 {
     display: inline-block;
     float: right;
-    margin-right: 300px;
-    /*margin-left: 75px;*/
-    margin-top: 30px;
-    height: 200px;
-    width: 200px;
+    margin-right: 25%;
+    margin-left: 10%;
+    margin-top: 5%;
+    height: 10%;
+    width: 10%;
 }
 
 #Projects{
